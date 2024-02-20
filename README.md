@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on website building
 - 📫 How to reach me: nazimkoff@gmail.com
-- 😄 Pronouns: ...
+- 😄 My website: [...](https://nazimkov.freecluster.eu/)
 - ⚡ Fun fact: ...
 
 <!---
