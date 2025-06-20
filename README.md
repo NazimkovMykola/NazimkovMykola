@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I have two pets! 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazimkovMykola&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 NazimkovMykola/NazimkovMykola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
