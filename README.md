@@ -12,6 +12,9 @@
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Mykola_Nazimkov)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
+![Stack Overflow Stats](https://stack-exchange-readme-stats.vercel.app/api?id=15247748)
+
+
 <!---
 NazimkovMykola/NazimkovMykola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
