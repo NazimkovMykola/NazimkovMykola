@@ -12,7 +12,7 @@
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Mykola_Nazimkov)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
-![Stack Overflow Stats](https://stack-exchange-readme-stats.vercel.app/api?id=mykola-nazimkov)
+[![Nazimkov Mykola StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15247748)](https://stackoverflow.com/users/15247748/mykola-nazimkov)
 
 
 <!---
