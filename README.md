@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NazimkovMykola
 - 👀 I’m interested in Front End
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently using HTML, CSS, JS
 - 💞️ I’m looking to collaborate on website building
 - 📫 How to reach me: nazimkoff@gmail.com
 - 😄 My website: [...](https://nazimkov.freecluster.eu/)
