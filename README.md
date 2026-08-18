@@ -7,7 +7,7 @@
 - - 😄 My website: [...](https://gtm-spy.onrender.com/)
 - ⚡ Fun fact: I have two pets! 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=MykolaNazimkov&layout=compact&theme=dracula&langs_count=6)](https://github.com/stats-organization/github-stats-extended)
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Mykola_Nazimkov)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
